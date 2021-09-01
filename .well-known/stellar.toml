@@ -1,1 +1,32 @@
-test
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+FEDERATION_SERVER="https://api.domain.com/federation"
+AUTH_SERVER="https://api.domain.com/auth"
+TRANSFER_SERVER="https://api.domain.com"
+SIGNING_KEY="GBBHQ7H4V6RRORKYLHTCAWP6MOHNORRFJSDPXDFYDGJB2LPZUFPXUEW3"
+HORIZON_URL="https://horizon.domain.com"
+ACCOUNTS=[
+"GADS43KNEAZ55Z5RQ6SK4WZRQS7QSMWIXBGFV4CPR4HM6XDU73F5NY53",
+"GB6EPXP7NWRDGZLMSBJR2DJONCPS5K3CGLW26A536OJXGBA4TAMRP2DE",
+"GCK7T7OSZU5IYWKXO7HDKYQYSQMGSVZ3YEI5VQ3VZ5QQP3F2UUP2I4N3"
+]
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="VOLC xyz"
+ORG_URL="https://volc.xyz"
+ORG_LOGO="https://volc.xyz/.well-known/volc.png"
+ORG_DESCRIPTION="Volcanic Trading Group"
+ORG_KEYBASE="volcxyz"
+ORG_TWITTER="volcxyz"
+ORG_GITHUB="volcxyz"
+ORG_OFFICIAL_EMAIL="volc@sent.com"
+
+
+[[CURRENCIES]]
+code="VOLC"
+issuer="GADS43KNEAZ55Z5RQ6SK4WZRQS7QSMWIXBGFV4CPR4HM6XDU73F5NY53"
+display_decimals=2
+name="VOLC Coin"
+desc="here will only ever be 1,000,000,000 VOLC coin existence. We will distribute the bonus share weekly and monthly, check our blog for the schedule".
+image="https://volc.xyz/.well-known/volc.png"
+fixed_number=1000000000
