@@ -5,7 +5,7 @@ VERSION="2.0.0"
 [DOCUMENTATION]
 ORG_NAME="VOLC xyz"
 ORG_URL="https://volc.xyz"
-ORG_LOGO="https://volc.xyz/assets/favicon.png"
+ORG_LOGO="https://raw.githubusercontent.com/volcxyz/volcxyz.github.io/main/assets/volc.png"
 ORG_DESCRIPTION="Volcanic Trading Group"
 ORG_KEYBASE="volcxyz"
 ORG_TWITTER="volcxyz"
@@ -20,5 +20,5 @@ issuer= "GADS43KNEAZ55Z5RQ6SK4WZRQS7QSMWIXBGFV4CPR4HM6XDU73F5NY53"
 is_asset_anchored = false
 display_decimals= 7
 desc= "There will only ever be 1,000,000,000 VOLC coin existence. We will distribute the bonus share weekly and monthly, check our blog for the schedule".
-image= "https://volc.xyz/assets/favicon.png"
+image= "https://raw.githubusercontent.com/volcxyz/volcxyz.github.io/main/assets/volc.png"
 fixed_number=1000000000
