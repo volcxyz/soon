@@ -15,7 +15,7 @@ ACCOUNTS=[
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME= "VOLC xyz"
+ORG_NAME= "VOLCANO"
 ORG_URL= "https://volc.xyz"
 ORG_LOGO= "https://raw.githubusercontent.com/volcxyz/volcxyz.github.io/main/assets/volc.png"
 ORG_PHYSICAL_ADDRESS= "Singapore"
@@ -28,7 +28,7 @@ ORG_OFFICIAL_EMAIL= "volcxyz@sent.com"
 [[CURRENCIES]]
 code= "VOLC"
 name= "VOLC Coin"
-issuer= "GADS43KNEAZ55Z5RQ6SK4WZRQS7QSMWIXBGFV4CPR4HM6XDU73F5NY53"
+issuer= "GCRQBRNVSTACQ6O45YOVGV2QXXS565IB23XJV4V674IG6BGIBXMQCAZD"
 is_asset_anchored = false
 display_decimals= 7
 desc= "There will only ever be 1,000,000,000 VOLC coin existence. We will distribute the bonus share weekly and monthly, check our blog for the schedule".
