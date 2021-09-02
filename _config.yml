@@ -1,5 +1,4 @@
 include: [".well-known"]
-exclude:
-  - LICENSE
-  - README.md
-  - CNAME
+include: [".well-known/"]
+include: ["/.well-known"]
+include: ["/.well-known/"]
