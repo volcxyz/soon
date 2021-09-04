@@ -24,6 +24,6 @@ name= "VOLCANO Coin"
 issuer= "GCRQBRNVSTACQ6O45YOVGV2QXXS565IB23XJV4V674IG6BGIBXMQCAZD"
 is_asset_anchored = false
 display_decimals= 7
-desc= "There will only ever be 1,000,000,000 VOLC coin existence. We will distribute the bonus share weekly and monthly, check our blog for the schedule".
+desc= "There will only ever be 1,000,000,000 VOLC coin existence. We will distribute the bonus share weekly and monthly, check our blog for the schedule"
 image= "https://raw.githubusercontent.com/volcxyz/volcxyz.github.io/main/assets/volc.png"
 fixed_number=1000000000
